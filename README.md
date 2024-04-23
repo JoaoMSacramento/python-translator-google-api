@@ -5,4 +5,3 @@ Features:
 2. See available languages
 3. Choose input language
 4. Choose output language
-5. Exit
