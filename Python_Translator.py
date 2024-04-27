@@ -1,7 +1,7 @@
 from google.cloud import translate_v3 as translate
 
-project_id = "planar-night-421212"
-key_file_path = "planar-night-421212-0b0f37e6ecb8.json"
+project_id = "your-project-id"
+key_file_path = "/path/to/your/key.json"
 
 
 def create_translate_cliente(project_id, key_file_path):
