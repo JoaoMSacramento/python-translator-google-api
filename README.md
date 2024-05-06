@@ -13,3 +13,6 @@ Features:
 2. See available languages
 3. Choose input language
 4. Choose output language
+
+Demo:
+![](https://github.com/JoaoMSacramento/python-translator-google-api/blob/main/demo.gif)
